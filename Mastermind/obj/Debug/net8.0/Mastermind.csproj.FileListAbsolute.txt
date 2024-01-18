@@ -1,0 +1,15 @@
+C:\Users\tejas\Mastermind\output\Mastermind.exe
+C:\Users\tejas\Mastermind\output\Mastermind.deps.json
+C:\Users\tejas\Mastermind\output\Mastermind.runtimeconfig.json
+C:\Users\tejas\Mastermind\output\Mastermind.dll
+C:\Users\tejas\Mastermind\output\Mastermind.pdb
+C:\Users\tejas\Mastermind\Mastermind\obj\Debug\net8.0\Mastermind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tejas\Mastermind\Mastermind\obj\Debug\net8.0\Mastermind.AssemblyInfoInputs.cache
+C:\Users\tejas\Mastermind\Mastermind\obj\Debug\net8.0\Mastermind.AssemblyInfo.cs
+C:\Users\tejas\Mastermind\Mastermind\obj\Debug\net8.0\Mastermind.csproj.CoreCompileInputs.cache
+C:\Users\tejas\Mastermind\Mastermind\obj\Debug\net8.0\Mastermind.sourcelink.json
+C:\Users\tejas\Mastermind\Mastermind\obj\Debug\net8.0\Mastermind.dll
+C:\Users\tejas\Mastermind\Mastermind\obj\Debug\net8.0\refint\Mastermind.dll
+C:\Users\tejas\Mastermind\Mastermind\obj\Debug\net8.0\Mastermind.pdb
+C:\Users\tejas\Mastermind\Mastermind\obj\Debug\net8.0\Mastermind.genruntimeconfig.cache
+C:\Users\tejas\Mastermind\Mastermind\obj\Debug\net8.0\ref\Mastermind.dll
